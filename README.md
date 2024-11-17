@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-This is a feature-rich eCommerce platform built using **Laravel** for the backend and **JavaScript/Bootstrap** for the frontend. The application provides a seamless shopping experience with functionalities for product listing, cart management, order processing, and admin management tools.
+ShopNest-ecommerce is a feature-rich eCommerce platform built using **Laravel** for the backend and **JavaScript/Bootstrap** for the frontend. The application provides a seamless shopping experience with functionalities for product listing, cart management, order processing, and admin management tools.
 
 ---
 
@@ -37,4 +37,4 @@ This is a feature-rich eCommerce platform built using **Laravel** for the backen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sohailtahir5858/EcomerceWebsiteUsingLaravel.git
+   git clone https://github.com/sohailtahir5858/ShopNest-ecommerce.git
